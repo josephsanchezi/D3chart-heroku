@@ -1,0 +1,13 @@
+	.bar {
+	  fill: steelblue;
+	}
+
+	.bar:hover {
+	  fill: brown;
+	}
+	svg {
+		background-color: rgba(0, 128, 0, 0.19);
+	}
+	.y_label,.x_label {
+		font-size: 14px;
+	}
